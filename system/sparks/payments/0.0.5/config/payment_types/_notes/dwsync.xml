@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="activate_recurring_profile.php" server="C:/xampp/htdocs/clinica/" local="130250096229847958" remote="130250096220000000" Dst="1" />
+<file name="authorize_payment.php" server="C:/xampp/htdocs/clinica/" local="130250096230297984" remote="130250096230000000" Dst="1" />
+<file name="authorize_payment_button.php" server="C:/xampp/htdocs/clinica/" local="130250096230527997" remote="130250096230000000" Dst="1" />
+<file name="cancel_recurring_profile.php" server="C:/xampp/htdocs/clinica/" local="130250096230748010" remote="130250096230000000" Dst="1" />
+<file name="capture_payment.php" server="C:/xampp/htdocs/clinica/" local="130250096231008025" remote="130250096230000000" Dst="1" />
+<file name="change_transaction_status.php" server="C:/xampp/htdocs/clinica/" local="130250096231228037" remote="130250096230000000" Dst="1" />
+<file name="get_oneoff_button.php" server="C:/xampp/htdocs/clinica/" local="130250096231438049" remote="130250096230000000" Dst="1" />
+<file name="get_recurring_profile.php" server="C:/xampp/htdocs/clinica/" local="130250096231658062" remote="130250096230000000" Dst="1" />
+<file name="get_transaction_details.php" server="C:/xampp/htdocs/clinica/" local="130250096231898076" remote="130250096230000000" Dst="1" />
+<file name="oneoff_payment.php" server="C:/xampp/htdocs/clinica/" local="130250096232148090" remote="130250096230000000" Dst="1" />
+<file name="oneoff_payment_button.php" server="C:/xampp/htdocs/clinica/" local="130250096232398104" remote="130250096230000000" Dst="1" />
+<file name="recurring_bill_outstanding.php" server="C:/xampp/htdocs/clinica/" local="130250096232628117" remote="130250096230000000" Dst="1" />
+<file name="recurring_payment.php" server="C:/xampp/htdocs/clinica/" local="130250096232958136" remote="130250096230000000" Dst="1" />
+<file name="recurring_payment_button.php" server="C:/xampp/htdocs/clinica/" local="130250096233288155" remote="130250096230000000" Dst="1" />
+<file name="reference_payment.php" server="C:/xampp/htdocs/clinica/" local="130250096233578172" remote="130250096230000000" Dst="1" />
+<file name="refund_payment.php" server="C:/xampp/htdocs/clinica/" local="130250096233878189" remote="130250096230000000" Dst="1" />
+<file name="search_transactions.php" server="C:/xampp/htdocs/clinica/" local="130250096234108202" remote="130250096230000000" Dst="1" />
+<file name="suspend_recurring_profile.php" server="C:/xampp/htdocs/clinica/" local="130250096234328215" remote="130250096230000000" Dst="1" />
+<file name="update_recurring_profile.php" server="C:/xampp/htdocs/clinica/" local="130250096234578229" remote="130250096230000000" Dst="1" />
+<file name="void_payment.php" server="C:/xampp/htdocs/clinica/" local="130250096234798241" remote="130250096230000000" Dst="1" />
+<file name="void_refund.php" server="C:/xampp/htdocs/clinica/" local="130250096235038255" remote="130250096230000000" Dst="1" />
+<file name="activate_recurring_profile.php" server="clincadentalsantarafaela.herobo.com" local="130250096229847958" remote="130277621400000000" Dst="1" />
+<file name="authorize_payment.php" server="clincadentalsantarafaela.herobo.com" local="130250096230297984" remote="130277621400000000" Dst="1" />
+<file name="authorize_payment_button.php" server="clincadentalsantarafaela.herobo.com" local="130250096230527997" remote="130277621400000000" Dst="1" />
+<file name="cancel_recurring_profile.php" server="clincadentalsantarafaela.herobo.com" local="130250096230748010" remote="130277621400000000" Dst="1" />
+<file name="capture_payment.php" server="clincadentalsantarafaela.herobo.com" local="130250096231008025" remote="130277621400000000" Dst="1" />
+<file name="change_transaction_status.php" server="clincadentalsantarafaela.herobo.com" local="130250096231228037" remote="130277621400000000" Dst="1" />
+<file name="get_oneoff_button.php" server="clincadentalsantarafaela.herobo.com" local="130250096231438049" remote="130277621400000000" Dst="1" />
+<file name="get_recurring_profile.php" server="clincadentalsantarafaela.herobo.com" local="130250096231658062" remote="130277621400000000" Dst="1" />
+<file name="get_transaction_details.php" server="clincadentalsantarafaela.herobo.com" local="130250096231898076" remote="130277621400000000" Dst="1" />
+<file name="oneoff_payment.php" server="clincadentalsantarafaela.herobo.com" local="130250096232148090" remote="130277621400000000" Dst="1" />
+<file name="oneoff_payment_button.php" server="clincadentalsantarafaela.herobo.com" local="130250096232398104" remote="130277621400000000" Dst="1" />
+<file name="recurring_bill_outstanding.php" server="clincadentalsantarafaela.herobo.com" local="130250096232628117" remote="130277621400000000" Dst="1" />
+<file name="recurring_payment.php" server="clincadentalsantarafaela.herobo.com" local="130250096232958136" remote="130277621400000000" Dst="1" />
+<file name="recurring_payment_button.php" server="clincadentalsantarafaela.herobo.com" local="130250096233288155" remote="130277621400000000" Dst="1" />
+<file name="reference_payment.php" server="clincadentalsantarafaela.herobo.com" local="130250096233578172" remote="130277621400000000" Dst="1" />
+<file name="refund_payment.php" server="clincadentalsantarafaela.herobo.com" local="130250096233878189" remote="130277621400000000" Dst="1" />
+<file name="search_transactions.php" server="clincadentalsantarafaela.herobo.com" local="130250096234108202" remote="130277621400000000" Dst="1" />
+<file name="suspend_recurring_profile.php" server="clincadentalsantarafaela.herobo.com" local="130250096234328215" remote="130277621400000000" Dst="1" />
+<file name="update_recurring_profile.php" server="clincadentalsantarafaela.herobo.com" local="130250096234578229" remote="130277621400000000" Dst="1" />
+<file name="void_payment.php" server="clincadentalsantarafaela.herobo.com" local="130250096234798241" remote="130277621400000000" Dst="1" />
+<file name="void_refund.php" server="clincadentalsantarafaela.herobo.com" local="130250096235038255" remote="130277621400000000" Dst="1" />
+</dwsync>
