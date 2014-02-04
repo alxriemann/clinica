@@ -1,8 +1,8 @@
 --- 
 db1: 
-  name: articles
+  name: clinicadata
 web1: 
-  name: pyrocms
+  name: santarafaela
   php_extensions: 
     - mysql
     - gd
