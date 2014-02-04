@@ -33,10 +33,10 @@
 
 // Development
 $db[PYRO_DEVELOPMENT] = array(
-	'hostname'		=> 	'DB1_HOST',
-	'username'		=> 	'DB1_USER',
-	'password'		=> 	'DB1_PASS',
-	'database'		=> 	'DB1_NAME',
+	'hostname'		=> 	'localhost',
+	'username'		=> 	'root',
+	'password'		=> 	'3900cax71am',
+	'database'		=> 	'clinica',
 	'dbdriver' 		=> 	'mysqli',
 	'dbprefix' 		=>	'',
 	'pconnect' 		=>	FALSE,
@@ -70,10 +70,10 @@ $db[PYRO_STAGING] = array(
 
 // Production
 $db[PYRO_PRODUCTION] = array(
-	'hostname'		=> 	'DB1_HOST',
-	'username'		=> 	'DB1_USER',
-	'password'		=> 	'DB1_PASS',
-	'database'		=> 	'DB1_NAME',
+	'hostname'		=> 	'localhost',
+	'username'		=> 	'root',
+	'password'		=> 	'3900cax71am',
+	'database'		=> 	'clinica',
 	'dbdriver' 		=> 	'mysqli',
 	'pconnect' 		=>	FALSE,
 	'db_debug' 		=>	FALSE,
