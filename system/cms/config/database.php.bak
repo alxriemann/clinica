@@ -69,17 +69,17 @@ $db[PYRO_STAGING] = array(
 
 // Production
 $db[PYRO_PRODUCTION] = array(
-	'hostname'		=> 	'DB1_HOST',
-	'username'		=> 	'DB1_USER',
-	'password'		=> 	'DB1_PASS',
-	'database'		=> 	'DB1_NAME',
+	'hostname'		=> 	'localhost',
+	'username'		=> 	'root',
+	'password'		=> 	'3900cax71am',
+	'database'		=> 	'clinica',
 	'dbdriver' 		=> 	'mysql',
 	'pconnect' 		=>	false,
 	'db_debug' 		=>	false,
 	'cache_on' 		=>	false,
 	'char_set' 		=>	'utf8',
 	'dbcollat' 		=>	'utf8_unicode_ci',
-	'port' 	 		=>	'DB1_PORT',
+	'port' 	 		=>	'3306',
 );
 
 
