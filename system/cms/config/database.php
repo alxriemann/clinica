@@ -33,7 +33,7 @@
 
 // Development
 $db[PYRO_DEVELOPMENT] = array(
-	'hostname'		=> 	'tunnel.pagodabox.com',
+	'hostname'		=> 	'localhost',
 	'username'		=> 	'jenee',
 	'password'		=> 	'3HRhju7Z',
 	'database'		=> 	'clinicadata',
@@ -70,7 +70,7 @@ $db[PYRO_STAGING] = array(
 
 // Production
 $db[PYRO_PRODUCTION] = array(
-	'hostname'		=> 	'tunnel.pagodabox.com',
+	'hostname'		=> 	'localhost',
 	'username'		=> 	'jenee',
 	'password'		=> 	'3HRhju7Z',
 	'database'		=> 	'clinicadata',
