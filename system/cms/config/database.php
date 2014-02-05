@@ -33,9 +33,9 @@
 
 // Development
 $db[PYRO_DEVELOPMENT] = array(
-	'hostname'		=> 	'localhost',
-	'username'		=> 	'root',
-	'password'		=> 	'3900cax71am',
+	'hostname'		=> 	'tunnel.pagodabox.com',
+	'username'		=> 	'jenee',
+	'password'		=> 	'3HRhju7Z',
 	'database'		=> 	'clinicadata',
 	'dbdriver' 		=> 	'mysqli',
 	'dbprefix' 		=>	'',
@@ -70,9 +70,9 @@ $db[PYRO_STAGING] = array(
 
 // Production
 $db[PYRO_PRODUCTION] = array(
-	'hostname'		=> 	'localhost',
-	'username'		=> 	'root',
-	'password'		=> 	'3900cax71am',
+	'hostname'		=> 	'tunnel.pagodabox.com',
+	'username'		=> 	'jenee',
+	'password'		=> 	'3HRhju7Z',
 	'database'		=> 	'clinicadata',
 	'dbdriver' 		=> 	'mysqli',
 	'pconnect' 		=>	FALSE,
